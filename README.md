@@ -17,3 +17,9 @@ This notebook includes examples of various data analysis, modeling, and visualiz
     - In the preceding lectures, the students will get a more in-depth, theoretical understanding of how regularization works, why it is used, and how it affects the resulting model's coefficients.
 - Using *requests* in Python to learn how to extract your own data from the internet; in this case, a relatively simple API that outputs clean data in JSON format and does not require any authentication.
 ---
+
+## TO-DO:
+
+A more rigorous analysis of the financial time series data can be explored with the *statsmodels* library in Python. Models to be added in a future notebook:
+- Exponential Smoothing
+- Autoregressive-moving-average (ARMA).
